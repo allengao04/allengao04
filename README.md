@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on future project and coop opportunity 
 - 📫 How to reach me: allengao0807@gmail.com 
 - 😄 Pronouns: man
-- ⚡ Fun fact: I dont play league 
 
 <!---
 allengao04/allengao04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
